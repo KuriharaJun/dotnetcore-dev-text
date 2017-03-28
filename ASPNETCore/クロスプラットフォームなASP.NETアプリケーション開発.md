@@ -89,7 +89,7 @@ CPU：Intel Core i5
         .NET Coreは.NET Frameworkと同様に[nuget](https://www.nuget.org)によるライブラリの管理を行っている。
 
     2. アプリケーションの実行
-    
+
         リストアが完了したところで、アプリケーションを実行する
 
         アプリケーションの実行は以下のコマンドで実行できる。
@@ -104,3 +104,5 @@ CPU：Intel Core i5
 
         ブラウザから[アプリケーション](http://localhost:5000)にアクセス
         以下の画面が表示されることを確認する。
+
+        ![ブラウザ画面](https://github.com/KuriharaJun/dotnetcore-dev-text/blob/master/ASPNETCore/img/3-2-1.jpg)
